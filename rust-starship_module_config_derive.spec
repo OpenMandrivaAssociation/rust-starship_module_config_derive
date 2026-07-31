@@ -5,8 +5,8 @@
 %global crate starship_module_config_derive
 
 Name:           rust-%{crate}
-Version:        0.1.1
-Release:        3%{?dist}
+Version:        0.2.1
+Release:        1%{?dist}
 Summary:        Cross-shell prompt for astronauts
 
 # Upstream license specification: ISC
